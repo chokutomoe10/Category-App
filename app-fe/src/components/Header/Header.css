@@ -1,0 +1,13 @@
+.container{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    background-color: orangered;
+    color: white;
+    height: 191px;
+    flex-direction: column;
+}
+
+span {
+    margin-bottom: 26px;
+}

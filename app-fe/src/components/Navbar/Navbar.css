@@ -1,0 +1,22 @@
+.ul-navbar{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    list-style-type: none;
+    margin: 0 auto;
+}
+
+.li-navbar {
+    border-bottom: 1px solid red;
+}
+
+a {
+    cursor: pointer;
+    color: white;
+}
+
+nav {
+    display: flex;
+    background-color: black;
+    color: white; 
+}
